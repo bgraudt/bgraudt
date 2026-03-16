@@ -8,7 +8,7 @@ distributed systems, privacy, and intelligence
 ---
 
 **now**
-- building sovereign-net — post-blockchain identity architecture
+- building erebus — post-blockchain identity architecture
 - deepening ml theory foundations
 - open to internship opportunities in 2026
 
